@@ -1,0 +1,5 @@
+StudentID,Subject,Score,Attended
+101,Math,85,True
+102,Science,92,True
+103,History,78,False
+104,Math,95,True
